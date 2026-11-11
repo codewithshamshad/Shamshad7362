@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Shamshad7362
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Shamshad 👋
 
-<!---
-Shamshad7362/Shamshad7362 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Enthusiast | Learning, Building & Automating
+
+Welcome to my GitHub profile!
+
+I'm passionate about programming, software development, and computer automation. I enjoy learning new concepts and building practical solutions to real-world problems.
+
+### 🚀 What I'm Learning
+
+- Python Programming
+- Django and Flask
+- SQL and Database Management
+- Data Analysis with Pandas
+- Excel Automation
+- AI Tools for Programming
+
+### 🛠️ Technologies & Tools
+
+- Python
+- Flask
+- Django
+- SQL
+- HTML & JavaScript
+- Git & GitHub
+- Microsoft Excel
+
+### 🎯 My Goals
+
+- Improve my programming skills.
+- Build useful software applications.
+- Automate repetitive tasks.
+- Share my knowledge and learning journey.
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and sharing ideas.
+
+**CodeWithShamshad — Learn. Build. Automate. Share.**
